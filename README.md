@@ -2,8 +2,8 @@
 <h3 align="center">I am a 2nd-year Computer Science student at Acharya Narendra Dev College, Delhi University</h3>
 <br>
 
-<img align="left" src="https://user-images.githubusercontent.com/77924168/150677303-d0c88172-3d89-4f43-b943-27df3ccb6c5b.gif" width="200px">
-<img align="right" src="https://user-images.githubusercontent.com/77924168/150677303-d0c88172-3d89-4f43-b943-27df3ccb6c5b.gif" width="200px">
+<img align="left" src="https://user-images.githubusercontent.com/77924168/150677303-d0c88172-3d89-4f43-b943-27df3ccb6c5b.gif" width="160px">
+<img align="right" src="https://user-images.githubusercontent.com/77924168/150677303-d0c88172-3d89-4f43-b943-27df3ccb6c5b.gif" width="160px">
 
 <div align="center">
 
