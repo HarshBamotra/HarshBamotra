@@ -1,4 +1,4 @@
-<h1 align="center">Hi, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="15px"> I'm Harsh Bamotra</h1>
+<h1 align="center">Hi, I'm Harsh Bamotra</h1>
 <h3 align="center">I am a 2nd-year Computer Science student at Acharya Narendra Dev College, Delhi University</h3>
 <br>
 
@@ -18,8 +18,8 @@ I'm also into graphic designing.
 <br><br>
 
 <p align="left">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=HarshBamotra&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBamotra&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HarshBamotra&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBamotra&theme=gruvbox&hide_border=true" />
 </p>
 
 
