@@ -18,8 +18,8 @@ I'm also into graphic designing.
 <br><br>
 
 <p align="left">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=HarshBamotra&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBamotra&theme=gruvbox&hide_border=true" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshBamotra&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshBamotra&theme=gruvbox&hide_border=true" />
 </p>
 
 
