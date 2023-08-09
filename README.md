@@ -25,6 +25,9 @@ I'm also into graphic designing.
 
 ![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=HarshBamotra&custom_title=Harsh%20Bamotra's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 <hr>
 
 <p align="center">
